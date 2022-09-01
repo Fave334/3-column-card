@@ -56,7 +56,6 @@ body {
     color: #fff;
     padding: 3rem 3rem;
 }
-
 .btn-col button {
     height: 50px;
     width: 170px;
@@ -72,6 +71,7 @@ body {
        background: none;
        background-color: none;
        border: 3px solid white;
+       color: white;
 }
 .row{
     display: flex;
