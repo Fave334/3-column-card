@@ -68,6 +68,11 @@ body {
     font-family: 'Lexend Deca', sans-serif;
     cursor: pointer;
 }
+.btn-col button:hover {
+       background: none;
+       background-color: none;
+       border: 3px solid white;
+}
 .row{
     display: flex;
     width: 1000px;
